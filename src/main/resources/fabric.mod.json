@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "mcmoddoll",
+  "version": "${version}",
+  "name": "MCMOD DOLL",
+  "description": "添加百科娘玩偶与喵呜机玩偶，右键它们会随机显示一条来自社区的梗语录。",
+  "authors": [
+    "mcmod"
+  ],
+  "license": "Mozilla Public License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.mcmod.doll.ModMain"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mcmoddoll:block/mcmodwiki_girl",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "mcmoddoll:block/mcmodwiki_girl",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mcmoddoll:block/mcmodwiki_girl",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mcmoddoll:block/mcmodwiki_girl",
+      "y": 270
+    }
+  }
+}
